@@ -1,1 +1,1 @@
-# .github
+This repository contains the MATLAB code and preliminary details for a project that investigates neural connectivity patterns in the PCC, mPFC, RIPC, and LIPC brain regions of healthy and autistic individuals. Using Dynamic Causal Modelling (DCM) in MATLAB and SPM, we explored the causal relationships between these regions, revealing distinct correlation patterns and excitatory/inhibitory connections, summarized in matrix form. The repo includes the project briefing, code for analysis, and results for running on MATLAB.
