@@ -16,6 +16,6 @@ A few resources you might like to look into if you were interested in this proje
 2) https://direct.mit.edu/netn/article/8/1/178/117965
 
 
-
+Also provided to you here is a folder containing the fMRI scans for healthy people and those with ASD: https://drive.google.com/drive/folders/1Mlruneli0G2UdmPuVk9IuAhF9j28QX5w?usp=sharing .
 
 
